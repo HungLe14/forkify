@@ -9,14 +9,6 @@ import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import { MODAL_CLOUSE_SEC } from './config.js';
 
-// if (module.hot) {
-//   module.hot.accept();
-// }
-
-// https://forkify-api.herokuapp.com/v2
-
-///////////////////////////////////////
-
 const controlRecipe = async function () {
   try {
     // Taking hash ID
